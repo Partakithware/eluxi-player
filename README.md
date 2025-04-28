@@ -11,3 +11,17 @@ Some things are imperfect and or unfinished, rigged to work but not correct in p
 Why am I not making it sound like the ideal choice....idk I suppose I'm not upselling the thing, use it or don't bother me none just wanted to share it in case.
 I thought "Fork it" why not! Punny.
 
+Icons are theme based. The visuals in mine are because I use the BeautySolar icon pack.
+
+Tested on Ubuntu, GNOME.
+
+Current Hotkeys/Bindings
+F1,F2,F3,F11,Space,Esc
+
+F1 - F3 are show/hides, F1 attached to the buttons menu, F2 is the duration menu, F3 is the playlist.
+
+Playlist lets you select which media to play and traverse the list. 
+
+Will update the description later.
+
+
