@@ -25,3 +25,11 @@ Playlist lets you select which media to play and traverse the list.
 Will update the description later.
 
 
+to run the built version you likely need to: "sudo apt install mpv libgtk-3-0 libglib2.0-0 libx11-6"
+
+
+to build it yourself likely: "sudo apt install build-essential libmpv-dev libgtk-3-dev libglib2.0-dev libx11-dev"
+
+
+
+
