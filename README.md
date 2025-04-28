@@ -31,6 +31,8 @@ to run the built version you likely need to: "sudo apt install mpv libgtk-3-0 li
 
 to build it yourself likely: "sudo apt install build-essential libmpv-dev libgtk-3-dev libglib2.0-dev libx11-dev"
 
+Currently missing that I am going to add soon, video-track selection/audio-track selection.
+
 
 
 
