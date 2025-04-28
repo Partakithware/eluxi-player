@@ -9,7 +9,7 @@ I am not a professional, I am still working on this project. There are quite a f
 I am releasing it here so that anyone with better skills and more proper know how could potentially make it a viable use choice!
 While I might use it as is...well once I fix it up to include more of the features I would like...many others might not.
 Some things are imperfect and or unfinished, rigged to work but not correct in practice. I'm just a hobbyist sorry to dissappoint.
-Why am I not making it sound like the ideal choice....idk I suppose I'm not upselling the thing, use it or don't bother me none just wanted to share it in case.
+Why am I not making it sound like the ideal choice....idk I suppose I'm not upselling the thing, use it or don't, bothers me none lol just wanted to share it in case.
 I thought "Fork it" why not! Punny.
 
 Icons are theme based. The visuals in mine are because I use the BeautySolar icon pack.
