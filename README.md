@@ -2,7 +2,7 @@
 A GTK based front-end for MPV. A simple media-player project I started to see what it was like and to attempt trying to code in C which I have not done much.
 
 Released here I suppose for myself. This program does indeed work for a media player.
-![Example Appearance](Screenshots/Screenshot_from_2025-04-28_02-12-59.png)
+![Example Appearance](Screenshots/Screenshots/Screenshot%20from%202025-04-28%2002-12-59.png)
 Does it follow best practices, probably not. Has it been fixed to prevent all possible memory leaks, again probably not. 
 I am not a professional, I am still working on this project. There are quite a few features and functions I have yet to add.
 I am releasing it here so that anyone with better skills and more proper know how could potentially make it a viable use choice!
